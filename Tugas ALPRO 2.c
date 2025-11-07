@@ -34,7 +34,5 @@ int main(){
     printf ("nilai maksimum : %d\n", max);
     printf ("nilai minimum : %d\n", min);
 
-    getchar();
-    getchar();
     return 0;
 }
