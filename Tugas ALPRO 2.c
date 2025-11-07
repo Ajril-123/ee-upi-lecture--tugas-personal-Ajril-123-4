@@ -33,6 +33,8 @@ int main(){
     printf ("rata-rata nilai : %.2f\n", average);
     printf ("nilai maksimum : %d\n", max);
     printf ("nilai minimum : %d\n", min);
-    
+
+    getchar();
+    getchar();
     return 0;
 }
